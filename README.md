@@ -9,4 +9,5 @@ Key Features: Data Collection: Extracts channel information, video details, and 
   VS code
   PostgreSQL
   Streamlit
-How to Use Navigate to the "Add & Migrate" section to add new YouTube channels for data collection or migrate existing data to SQL. Explore the "Access Data" section to query and analyze the collected data using predefined queries or by accessing raw data tables. Follow the instructions provided in the application for each functionality to effectively use the features.
+# How to Use 
+Navigate to the "Add & Migrate" section to add new YouTube channels for data collection or migrate existing data to SQL. Explore the "Access Data" section to query and analyze the collected data using predefined queries or by accessing raw data tables. Follow the instructions provided in the application for each functionality to effectively use the features.
